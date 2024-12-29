@@ -39,7 +39,7 @@ Prerequisites
 Python 3.x installed on your system.
 Installation
 1. Clone this repository:
-git clone https://github.com/BhumiJain21/Cognifyz-Level-1.git
+git clone [https://github.com/BhumiJain21/Cognifyz-Level-1.git](https://github.com/BhumiJain21/cognifyz-level1.git)
 cd Cognifyz-Level-1
 2. Run any script using the command:
 python script_name.py
